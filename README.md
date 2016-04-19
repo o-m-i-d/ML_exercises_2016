@@ -1,2 +1,2 @@
 # ML_exercises_2016
-some exercises on logistic regression and regularisation using sklearn
+some exercises on logistic regression and lasso regularisation using sk-learn library
